@@ -19,7 +19,7 @@ Required: *no*
 ### Sample usage
 The following link will request a deposit of 100 EUR to the end-user as well as a the payment of a city tax of 1 EUR per adult per night:
 ```
-https:/sandbox.swikly.com/checkout/?userId=[swikly-account-userId]&amountDeposit=10000&cityTax=100&startDate=2020-12-08&endDate=2020-12-10&ctrlKey=[computed-control-key]
+https://app.sandbox.swikly.com/fr/checkout/checkout/?userId=[swikly-account-userId]&amountDeposit=10000&cityTax=100&startDate=2020-12-08&endDate=2020-12-10&ctrlKey=[computed-control-key]
 ```
 ---
 
@@ -34,7 +34,7 @@ Required: *yes* if `overviewDisplay` is set to 0.
 ### Sample usage
 The following link will request a deposit of 100 EUR to the end-user as well as a the payment of a city tax of 1 EUR per adult per night:
 ```
-https:/sandbox.swikly.com/checkout/?userId=[swikly-account-userId]&amountDeposit=10000&cityTax=100&startDate=2020-12-08&endDate=2020-12-10&adultsNbr=2&childrenNbr=2&overviewDisplay=0&ctrlKey=[computed-control-key]
+https://app.sandbox.swikly.com/fr/checkout/checkout/?userId=[swikly-account-userId]&amountDeposit=10000&cityTax=100&startDate=2020-12-08&endDate=2020-12-10&adultsNbr=2&childrenNbr=2&overviewDisplay=0&ctrlKey=[computed-control-key]
 ```
 ---
 
@@ -49,5 +49,5 @@ Required: *yes* if `overviewDisplay` is set to 0.
 ### Sample usage
 The following link will request a deposit of 100 EUR to the end-user as well as a the payment of a city tax of 1 EUR per adult per night:
 ```
-https:/sandbox.swikly.com/checkout/?userId=[swikly-account-userId]&amountDeposit=10000&cityTax=100&startDate=2020-12-08&endDate=2020-12-10&adultsNbr=2&childrenNbr=2&overviewDisplay=0&ctrlKey=[computed-control-key]
+https://app.sandbox.swikly.com/fr/checkout/checkout/?userId=[swikly-account-userId]&amountDeposit=10000&cityTax=100&startDate=2020-12-08&endDate=2020-12-10&adultsNbr=2&childrenNbr=2&overviewDisplay=0&ctrlKey=[computed-control-key]
 ```
