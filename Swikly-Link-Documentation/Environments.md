@@ -8,8 +8,8 @@ The sandbox environment enables you to test your links and application integrati
 
 | Environment  | URL  | Usage |
 |---|---| --- |
-| Sandbox | [https://sandbox.swikly.com](https://sandbox.swikly.com) | Test |
-| Sandbox Checkout Root | [https://sandbox.swikly.com/checkout](https://sandbox.swikly.com/checkout)  | Test |
+| Sandbox | [https://app.sandbox.swikly.com](https://app.sandbox.swikly.com) | Test |
+| Sandbox Checkout Root | [https://app.sandbox.swikly.com/fr/checkout](https://app.sandbox.swikly.com/fr/checkout)  | Test |
 
 - ## Production 
 
@@ -17,5 +17,5 @@ The production environment enables you to go live with your links and applicatio
 
 | Environment  | URL | Usage |
 |---|---| --- |
-| Production | [https://www.swikly.com](https://www.swikly.com) | Live |
-| Production Checkout Root | [https://www.swikly.com/checkout](https://www.swikly.com/checkout) | Live |
+| Production | [https://app.v2.swikly.com](https://app.v2.swikly.com) | Live |
+| Production Checkout Root | [https://app.v2.swikly.com/fr/checkout](https://app.v2.swikly.com/fr/checkout) | Live |
